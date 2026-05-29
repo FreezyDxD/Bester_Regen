@@ -1,16 +1,16 @@
 {
-  "id": 64658786,
-  "name": "Wasureta",
-  "author": "",
-  "creators": ["HelpegasuS and more"],
-  "verifier": "VaporWubz",
-  "verification": "https://youtu.be/LDdnsp53PJs?si=zY44FtL9x4Ga9Z8_",
-  "percentToQualify": 50,
-  "password": "Not Copyable",
-  "records": [
+    "id": 64658786,
+    "name": "Wasureta",
+    "author": "",
+    "creators": ["HelpegasuS and more"],
+    "verifier": "VaporWubz",
+    "verification": "https://youtu.be/LDdnsp53PJs?si=zY44FtL9x4Ga9Z8_",
+    "percentToQualify": 50,
+    "password": "Not Copyable",
+    "records": [
         "user": "FreezyDxD",
         "link": "https://youtu.be/NbUVwxho_U0?si=U8Dhz1mFBVgjWaoR",
         "percent": 100,
         "hz": 165
-  ]
+      ]
 }
