@@ -1,11 +1,18 @@
 {
   "id": 75232616,
   "name": "Sarthix",
-  "author": "",
+  "author": "Zeptrus",
   "creators": ["Zeptrus"],
-  "verifier": "FreezyDxD",
-  "verification": "https://youtu.be/jtKSKSd7GIQ?si=lWSwV8fKG6YvqRkF",
+  "verifier": "Spectre",
+  "verification": "https://youtu.be/Uqcz3D9WlrA?si=XXysWFXKij8piLzs",
   "percentToQualify": 50,
   "password": "Not Copyable",
-  "records": []
+  "records": [
+      {
+            "user": "FreezyDxD",
+            "link": "https://youtu.be/jtKSKSd7GIQ?si=8feDrnUUCbMqNGbK",
+            "percent": 100,
+            "hz": 165
+        
+  ]
 }
