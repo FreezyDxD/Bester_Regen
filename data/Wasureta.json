@@ -1,18 +1,12 @@
 {
     "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": 56,
+    "name": "Wasureta",
+    "author": "",
+    "creators": ["Helpegasus", "More"],
+    "verifier": "FreezyDxD",
+    "verification": "https://youtu.be/NbUVwxho_U0?si=zXEf0uU5kJPhVUSb",
+    "percentToQualify": 50,
     "password": "Not Copyable",
     "records": [
-        {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
-        }
     ]
 }
