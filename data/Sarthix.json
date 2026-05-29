@@ -3,16 +3,10 @@
   "name": "Sarthix",
   "author": "Zeptrus",
   "creators": ["Zeptrus"],
-  "verifier": "Spectre",
-  "verification": "https://youtu.be/Uqcz3D9WlrA?si=XXysWFXKij8piLzs",
+  "verifier": "FreezyDxD",
+  "verification": "https://youtu.be/jtKSKSd7GIQ?si=8feDrnUUCbMqNGbK",
   "percentToQualify": 50,
   "password": "Not Copyable",
   "records": [
-      {
-            "user": "FreezyDxD",
-            "link": "https://youtu.be/jtKSKSd7GIQ?si=8feDrnUUCbMqNGbK",
-            "percent": 100,
-            "hz": 165
-      }
     ]
 }
