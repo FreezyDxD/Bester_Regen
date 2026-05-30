@@ -7,5 +7,12 @@
   "verification": "https://youtu.be/3xKKSx0x1Yg?si=Bof1f-xGc25liiWn",
   "percentToQualify": 50,
   "password": "Not Copyable",
-  "records": []
+  "records": [
+         {
+            "user": "Frogestrain",
+            "link": "https://www.youtube.com/watch?v=_4yI_56CuX4",
+            "percent": 100,
+            "hz": 240
+        }
+  ]
 }
