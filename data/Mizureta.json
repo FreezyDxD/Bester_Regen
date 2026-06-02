@@ -7,5 +7,12 @@
   "verification": "https://youtu.be/koyWSZ3YygU?si=hq2_HBXJZzRPK0xc",
   "percentToQualify": 50,
   "password": "Not Copyable",
-  "records": []
+  "records": [
+      {
+            "user": "Phil801",
+            "link": "https://www.youtube.com/watch?v=chK9k32_YuM",
+            "percent": 100,
+            "hz": 165
+        }
+  ]
 }
