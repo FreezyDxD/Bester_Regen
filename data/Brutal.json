@@ -1,0 +1,24 @@
+{
+    "id": 138356396,
+    "name": "Brutal",
+    "author": "Tshack",
+    "creators": ["Tshack"],
+    "verifier": "Phil801",
+    "verification": "https://www.youtube.com/watch?v=sS0iQfAjsbw",
+    "percentToQualify": 50,
+    "password": "Not Copyable",
+    "records": [
+      {
+            "user": "FreezyDxD",
+            "link": "https://youtu.be/XpPQg_gPLmU?si=ny1a4OHI6KfxsAYO",
+            "percent": 100,
+            "hz": 165
+        },
+      {
+            "user": "lendro",
+            "link": "https://youtu.be/ZyFI4LtFpuo?si=xmeuOEPN9OzRVB-R",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
