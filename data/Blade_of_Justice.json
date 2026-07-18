@@ -8,5 +8,8 @@
     "percentToQualify": 50,
     "password": "Not Copyable",
     "records": [
-    ]
-}
+            {
+            "user": "mnox",
+            "link": "https://www.youtube.com/watch?v=3KrwFl0KJeY",
+            "percent": 100,
+            "hz": 240
