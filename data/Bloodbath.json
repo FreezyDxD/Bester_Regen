@@ -25,6 +25,12 @@
             "link": "https://youtu.be/Io597C0LAcE?si=yAr1djNl7KJM4OQ1",
             "percent": 100,
             "hz": 144
-        }
+         },
+        {
+           "user": "mnox",
+            "link": "https://www.youtube.com/watch?v=gDhQu88IdeQ",
+            "percent": 100,
+            "hz": 240  
+       }
   ]
 }
