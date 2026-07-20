@@ -8,5 +8,11 @@
     "percentToQualify": 50,
     "password": "Not Copyable",
     "records": [
+         {
+            "user": "Ryangmd",
+            "link": "https://www.youtube.com/watch?v=cZtnTdEc-ak",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
