@@ -7,5 +7,12 @@
   "verification": "https://youtu.be/xgHpwZAlOyM?si=rj7gOYbjFIJoLje7",
   "percentToQualify": 50,
   "password": "Not Copyable",
-  "records": []
+  "records": [ 
+      {
+            "user": "zblitz",
+            "link": "https://youtu.be/tdbatY7WJ5E?si=vmlmspHO469nWQBM",
+            "percent": 100,
+            "hz": 240
+        }
+  ]
 }
