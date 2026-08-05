@@ -25,6 +25,12 @@
             "link": "https://www.youtube.com/watch?v=yTnLtiqkM7I",
             "percent": 100,
             "hz": 165
-           }
+           },
+        { 
+            "user":"BennyGD",
+            "link": "https://youtube.com/shorts/vn72NwWsSYE?si=SxsTAyyo6i5V5AHl",
+            "percent": 100,
+            "hz": 240
+          }
       ]  
    }
