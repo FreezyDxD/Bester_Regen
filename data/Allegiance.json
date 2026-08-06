@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=MU_nYiU8dJI",
             "percent": 100,
             "hz": 165
+        },
+          {  
+            "user": "henri1",
+            "link": "https://youtu.be/fpm01ebnNto?si=H7QNkEWlsmudex8Q",
+            "percent": 100,
+            "hz": 255 
         }
     ]
 }
