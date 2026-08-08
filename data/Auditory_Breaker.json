@@ -8,5 +8,11 @@
     "percentToQualify": 50,
     "password": "Not Copyable",
     "records": [
+        {
+            "user": "zblitz",
+            "link": "https://youtu.be/QDW0r0Idu1k?si=hl6TiMc4KJ0ebpLZ",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
