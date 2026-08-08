@@ -37,6 +37,12 @@
             "link": "https://youtube.com/shorts/rgSLeqXkGDg?si=ENPrDzUIgD4BoXI_",
             "percent": 100,
             "hz": 240  
+       },
+        {
+           "user": "zblitz",
+            "link": "https://youtu.be/SedonADJVUE?si=nW1zbR1uGPq2E0or",
+            "percent": 100,
+            "hz": 240  
        }
   ]
 }
