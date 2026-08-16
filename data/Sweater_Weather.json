@@ -31,6 +31,12 @@
             "link": "https://youtu.be/uu3StNtLaXA?si=Ya9Xq1U62UpdUQbZ",
             "percent": 100,
             "hz": 240 
-        }
+         },
+          { 
+             "user": "Versi",
+            "link": "https://www.youtube.com/watch?v=i4tpO_GUqS8&list=PLcv1Wls4VJlo&index=6",
+            "percent": 100,
+            "hz": 240
+       }
     ]
  }
