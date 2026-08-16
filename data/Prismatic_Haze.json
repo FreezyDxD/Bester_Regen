@@ -8,5 +8,11 @@
     "percentToQualify": 50,
     "password": "Not Copyable",
     "records": [
+        {
+         "user": "Versi",
+         "link": "https://www.youtube.com/watch?v=ZA0n-s9rsik&list=PLcv1Wls4VJlo&index=5",
+         "percent": 100,
+         "hz": 240
+        }
     ]
 }
