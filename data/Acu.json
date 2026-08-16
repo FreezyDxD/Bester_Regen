@@ -31,12 +31,18 @@
             "link": "https://youtu.be/Evqq7A2e0iM",
             "percent": 100,
             "hz": 240
-           } ,
+           },
          {
             "user": "BioEggsHD",
             "link": "https://youtu.be/bOkHGLuAzTI?is=XJQcYG1XOoGVuJJp",
             "percent": 100,
             "hz": 180
-           } 
+            },
+            {
+            "user": "Versi",
+            "link": "https://www.youtube.com/watch?v=9p7pPuxXEv8&list=PLcv1Wls4VJlo&index=4",
+            "percent": 100,
+            "hz": 240
+       } 
     ]
 }
