@@ -36,7 +36,14 @@
              "user": "Versi",
             "link": "https://www.youtube.com/watch?v=i4tpO_GUqS8&list=PLcv1Wls4VJlo&index=6",
             "percent": 100,
+            "hz": 240     
+               },
+          { 
+             "user": "Neo_cherry",
+            "link": "https://youtu.be/Gb9de7TF7ts?is=doiXX4QCPCdc7vz_",
+            "percent": 100,
             "hz": 240
        }
     ]
  }
+
