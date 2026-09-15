@@ -5,8 +5,7 @@ on:
     branches:
       - main
     paths:
-      - "data/_list.json"
-      - "data/*.json"
+      - "data/_list.json"  # Only trigger on this file
 
   schedule:
     - cron: "17 6 * * *"
