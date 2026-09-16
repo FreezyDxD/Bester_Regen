@@ -1,30 +1,21 @@
-name: Update demonlist order
+name: Sort Demonlist
 
 on:
   push:
     branches:
       - main
     paths:
-      - "data/_list.json"  # Only trigger on this file
-
-  schedule:
-    - cron: "17 6 * * *"
-
-  workflow_dispatch:
+      - "data/_list.json"
 
 permissions:
   contents: write
-
-concurrency:
-  group: update-demonlist
-  cancel-in-progress: false
 
 jobs:
   sort:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Download repository
+      - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Set up Python
@@ -32,18 +23,12 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Sort levels using AREDL
+      - name: Run sort_list.py
         run: python sort_list.py --auto
 
-      - name: Save updated order to GitHub
+      - name: Commit and push changes
         run: |
-          if git diff --quiet -- data/_list.json; then
-            echo "No changes to save."
-            exit 0
-          fi
-
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/_list.json
-          git commit -m "Update demonlist order from AREDL"
-          git push
+          git diff --cached --quiet || (git commit -m "Auto-sort demonlist" && git push)
