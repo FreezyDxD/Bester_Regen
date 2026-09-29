@@ -3,16 +3,12 @@
     "name": "Prismatic",
     "author": "CatGeo",
     "creators": ["CatGeo"],
-    "verifier": "ShyGuy",
-    "verification": "https://youtu.be/TRFTqV8hSL8?si=SFG7rl1rjgauHVNa",
+    "verifier": "Fäysn",
+    "verification": "https://www.youtube.com/watch?v=cHbHHk-HD0g",
     "percentToQualify": 50,
     "password": "Not Copyable",
     "records": [
-        {
-            "user": "Fäysn",
-            "link": "https://www.youtube.com/watch?v=cHbHHk-HD0g",
-            "percent": 100,
-            "hz": 144
+   
         }
     ]
 }
