@@ -1,24 +1,24 @@
 {
-  "id": 95764848,
-  "name": "Mizureta",
-  "author": "dutchiee",
-  "creators": ["Graded and more"],
-  "verifier": "FreezyDxD",
-  "verification": "https://youtu.be/koyWSZ3YygU?si=hq2_HBXJZzRPK0xc",
-  "percentToQualify": 50,
-  "password": "Not Copyable",
-  "records": [
-      {
-            "user": "Phil801",
-            "link": "https://www.youtube.com/watch?v=chK9k32_YuM",
-            "percent": 100,
-            "hz": 165
-        },
-        {
-            "user": "Lendro",
-            "link": "https://www.youtube.com/watch?v=_IT2yqrFpKU",
-            "percent": 100,
-            "hz": 144
-        }
-    ]
-}
+   "id": 95764848,
+   "name": "Mizureta",
+   "author": "dutchiee",
+   "creators": ["Graded and more"],
+   "verifier": "FreezyDxD",
+   "verification": "https://youtu.be/koyWSZ3YygU?si=hq2_HBXJZzRPK0xc",
+   "percentToQualify": 50,
+   "password": "Not Copyable",
+   "records": [
+       {
+             "user": "Phil801",
+             "link": "https://www.youtube.com/watch?v=chK9k32_YuM",
+             "percent": 100,
+             "hz": 165
+         },
+         {
+             "user": "Lendro",
+             "link": "https://www.youtube.com/watch?v=_IT2yqrFpKU",
+             "percent": 100,
+             "hz": 144
+         }
+     ]
+ }
