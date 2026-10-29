@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=poxtMeap8UE",
             "percent": 100,
             "hz": 260
-        }
-    ]
-}
+        },
+        {
+            "user": "Kirbsen",
+            "link": "https://www.youtube.com/watch?v=XxbRvHK19hQ",
+            "percent": 100,
+            "hz": 144
+            }
+        ]
+    }
